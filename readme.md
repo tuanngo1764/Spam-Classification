@@ -1,4 +1,4 @@
-# [NLP] Text Classification - Spam Classification
+# Spam Classification
 > Classify emails you receive as Spam by applying Supervised learning.
 
 ![](header.png)
